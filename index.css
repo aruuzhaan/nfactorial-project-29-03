@@ -13,3 +13,8 @@ a.text{
     text-decoration: none !important;
     color: black !important;
 }
+
+.javascr{
+    border: none !important;
+    border-radius: 100px !important;
+}

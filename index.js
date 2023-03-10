@@ -19,21 +19,32 @@ const articlesFromAPI = [
     }
 ];
 
-let article = ` <div class="m-5 d-flex flex-row justify-content-between">
+let article = ` 
 <div>
-    <div class="d-flex flex-row">
-        <figure>
-            <img src="./assets/Img.png" class="img-fluid" alt="avatar">
-        </figure>
-        <p>Authors Name in Topics Name</p>
-    </div>
-    <div class="me-5 mt-5 d-flex flex-column">
-    <a class="text" href="article.html"><h4 id="title"></h4></a>
-    <p class="mt-3" id="summary"></p>
+    <div class="m-5 d-flex flex-row justify-content-between">
+        <div>
+            <div class="d-flex flex-row">
+                <figure>
+                    <img src="./assets/Img.png" class="img-fluid" alt="avatar">
+                </figure>
+                <p>Authors Name in Topics Name</p>
+            </div>
+            <div class="me-5 mt-5 d-flex flex-column">
+            <a class="text" href="article.html"><h4 id="title"></h4></a>
+            <p class="mt-3" id="summary"></p>
+            </div>
+        </div>
+    <img class="w-25" src="" alt="article_img"/>
     </div>
 </div>
-<img class="w-25" src="" alt="article_img"/>
-</div>`;
+<div class="m-5 d-flex flex-row align-items-center">
+    <button class="javascr p-2">   Java Script </button>
+    <p class="me-3 ms-3">12 min read</p>
+    <p class="me-3>·</p>
+    <p class="me-3>Selected for you</p>
+</div>
+<hr>
+`;
 
 const articles = document.getElementById("articles");
 
