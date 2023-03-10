@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+
+}
+
+.img-fluid{
+    width: 24px;
+    height: 24px;
+    margin-right: 4px;
+}
+
+a.text{
+    text-decoration: none !important;
+    color: black !important;
+}

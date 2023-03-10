@@ -1,0 +1,85 @@
+body{
+    padding: 0;
+    font-family: 'Inter', sans-serif !important;
+    margin-left: 160px !important;
+    margin-right: 160px !important;
+}
+
+.img-fluid{
+    width: 64px !important;
+    height: 64px !important;
+    margin-right: 16px !important;
+}
+
+.linkedin{
+    width: 18px !important;
+    height: 18px !important;
+    margin-right: 20px !important;
+}
+
+.twit{
+    width: 18px !important;
+    height: 18px !important;
+    margin-right: 20px !important;
+}
+
+.facebook{
+    width: 18px !important;
+    height: 18px !important;
+}
+.howproduct{
+    font-family: 'SF Pro Display', sans-serif !important;
+    font-weight: 400 !important;
+    margin-top: 24px !important;
+}
+
+h2{
+    font-weight: 700 !important;
+}
+
+.mainimage{
+    margin-top: 70px !important;
+}
+
+h4{
+    margin-top: 70px !important;
+    margin-bottom: 24px !important;
+}
+
+.howlong{
+    font-family: 'SF Pro Display', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 20px !important;
+}
+
+.heart{
+    width: 18px !important;
+    height: 18px !important;
+    margin-right: 7px !important;
+}
+
+.bubble{
+    width: 18px !important;
+    height: 18px !important;
+    margin-right: 7px !important;
+}
+
+.likes{
+    margin-right: 17px !important;
+    color: #B7B7B7 !important;
+}
+
+.bookmark{
+    width: 18px !important;
+    height: 18px !important;
+}
+
+.comments{
+    color: #B7B7B7 !important;
+}
+
+.credits{
+    margin-top: 355px !important;
+    color: #081E34 !important;
+    opacity: 0.5 !important;
+}
